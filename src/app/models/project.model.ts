@@ -3,6 +3,6 @@ export interface ProjectModel {
     code?: string;
     date?: Date;
     description?: string;
-    appoved?: boolean;
+    approved?: boolean;
     title?: string;
 }
